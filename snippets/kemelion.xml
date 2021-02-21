@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="kemelion-gitlab"
+           fetch="https://gitlab.com/KemelionOS"
+           revision="11" />
+
+
+  <!-- Vendor -->
+  <project path="vendor/gapps" name="vendor_gapps" remote="kemelion-gitlab" clone-depth="1" />
+
+</manifest>
