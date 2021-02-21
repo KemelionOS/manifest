@@ -835,4 +835,7 @@
     <!-- Add all tracked repos -->
   <include name="snippets/kemelion.xml" />
 
+    <!-- Some Lineage repos -->
+  <include name="snippets/los.xml" />
+
 </manifest>
